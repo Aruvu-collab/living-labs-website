@@ -1,11 +1,13 @@
-/* src/app.css */
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import 'tailwindcss';
 
 p {
-	@apply py-2;
+	@apply py-2 text-red-900;
 }
+
+a, h1, h2, h3, h4{
+	@apply text-red-900;
+}
+
 
 h1 {
 	@apply mb-4 text-2xl font-bold text-gray-900;
@@ -36,7 +38,7 @@ a {
 }
 
 .card:hover {
-	@apply bg-aruvulightpink shadow-xl;
+	@apply  shadow-xl;
 	transition:
 		transform 0.3s ease,
 		box-shadow 0.3s ease;

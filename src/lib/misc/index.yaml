@@ -1,0 +1,67 @@
+title: Living Labs Network and Forum
+description: We support and foster place-based and practice-based research currently focused on the Dakkhani region (also known as Hyderabad-Karnataka or Kalyana Karnataka Region). We engage, experiment, explore and evaluate in a collaborative manner to imagine an alternative narrative and pathway to overall development.
+
+section2:
+  image: /ltf-cover.webp
+  title: Welcome to our site. This is a test
+  content: You have come to the digital garden of our place-based network. You can choose to navigate our digital garden by Place, Network or Collective. Each gets you to start browsing through information of a particular kind. For example, if you choose place, the notes are about the plural contexts in the Dakkhani region. This is a space that will keep getting updated regularly. Our core members and network members can reach out to us directly. If anyone from the wider public has a query, concern, suggestion or thoughts then please do write to us on info@thelivinglabs.net
+  ctabutton: 
+    name: mail us
+    link: mailto:info@livinglabs.net
+
+axioms:
+  description: Our axioms guide and direct us to operate in a place-based manner. These axioms are adopted from our allied collective Living Labs Network-Team YUVAA
+  list:
+    - title: test
+      description: test test
+      number: '001'
+    - title: test
+      description: test test
+      number: '001'
+    - title: test
+      description: test test
+      number: '001'
+    - title: test
+      description: test test
+      number: '001'
+    - title: test
+      description: test test
+      number: '001'
+    - title: test
+      description: test test
+      number: '001'
+    - title: test
+      description: test test
+      number: '001'
+
+navbar:
+  - title: Experimental Collaborations
+    link:
+  - title: Infrastructuring
+    link:
+  - title: Public Pedagogy
+    link:
+  - title: Collaborative Projects
+    link:
+
+modes:
+  title: Network Modes
+  list: 
+    - title: test
+      cover:
+      description: test
+      link: test
+    - title: test
+      cover:
+      description: test
+      link: test
+    - title: test
+      cover:
+      description: test
+      link: test
+
+coverImage:
+  path: img/bg.webp
+
+logo:
+  path: img/Aruvu_logo.webp
