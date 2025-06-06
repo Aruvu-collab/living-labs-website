@@ -24,6 +24,7 @@
 	"type": "module",
 	"dependencies": {
 		"@sveltejs/adapter-cloudflare": "^5.1.0",
+		"@sveltejs/adapter-static": "^3.0.8",
 		"@tailwindcss/postcss": "^4.1.8",
 		"dompurify": "^3.2.6",
 		"marked": "^14.1.4",
