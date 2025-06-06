@@ -9,13 +9,10 @@ const config = {
 				include: ['/*'],
 				exclude: ['/static/**']
 			},
-			platformProxy: {
-				configPath: 'wrangler.toml',
-				environment: undefined,
-				experimentalJsonConfig: false,
-				persist: false
-			}
-		})
+		}),
+		prerender: {
+			handleHttpError:'warn'
+		}
 	}
 };
 

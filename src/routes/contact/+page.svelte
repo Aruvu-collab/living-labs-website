@@ -2,7 +2,7 @@
 	<!-- Image -->
 	<div class="h-[60vh] w-full">
 		<figure>
-			<img src="aruvu_ync.webp" class="h-auto w-full object-cover grayscale" />
+			<img src="ltf-cover.webp" class="h-auto w-full object-cover grayscale" />
 			<caption class="w-full p-3 text-xs text-gray-500"
 				>Picture, from left to right: At the Yelahanka Nodal Center, Eshwari drinks tea, Vinay
 				attends a call, Supriya is at her notes, while Shreyas, Naveen and Harsha are conversing.
